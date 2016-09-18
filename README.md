@@ -5,7 +5,7 @@ Some simple codes to format the CSDMC2010 SPAM corpus
 * For convenience, these codes can be used to format this dataset to make it similar with the dataset in FTP.
 	* convert.py  removes the html labels in .eml files.
 	* move.sh moves the emails to "./ham/" and "./spam" folders respectively according to the labels.
-* The result is ham.zip and spam.zip although there are some meaningless symbols(like '<' or '>') remained in the files. 
+* The result is **ham.zip** and **spam.zip** although there are some meaningless symbols(like '<' or '>') remained in the files. 
 * Suggestions and improvements are encouraged.
 
 
